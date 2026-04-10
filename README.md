@@ -187,12 +187,6 @@ Activity de detalle que:
 
 ---
 
-## 🔗 Repositorio
-
-[https://github.com/DanMox-24/MundialApp2026](https://github.com/DanMox-24/MundialApp2026)
-
----
-
 ## 🧑‍💻 Autor
 
 Desarrollado como proyecto académico por Daniel Mateus.
