@@ -8,6 +8,7 @@ Aplicación Android nativa desarrollada en **Java** que muestra las **48 selecci
 
 | Lista de Equipos | Detalle del Equipo |
 |:---:|:---:|
+| ![Lista de equipos](screenshots/lista.png) | ![Detalle del equipo](screenshots/detalle.png) |
 | Lista con bandera, nombre, confederación y ranking FIFA | Bandera grande, estadísticas completas y descripción del equipo |
 
 ---
@@ -54,6 +55,9 @@ Aplicación Android nativa desarrollada en **Java** que muestra las **48 selecci
 
 ```
 MundialApp2026/
+├── screenshots/
+│   ├── screenshot_lista.png        # Captura de la lista de equipos
+│   └── screenshot_detalle.png      # Captura del detalle de equipo
 ├── app/
 │   ├── src/
 │   │   └── main/
@@ -109,7 +113,7 @@ MundialApp2026/
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/TU_USUARIO/MundialApp2026.git
+   git clone https://github.com/DanMox-24/MundialApp2026.git
    ```
 
 2. **Abrir en Android Studio:**
@@ -180,6 +184,12 @@ Activity de detalle que:
 - Recibe el índice del equipo via `Intent`
 - Muestra toda la información del equipo seleccionado
 - Implementa navegación hacia atrás
+
+---
+
+## 🔗 Repositorio
+
+[https://github.com/DanMox-24/MundialApp2026](https://github.com/DanMox-24/MundialApp2026)
 
 ---
 
