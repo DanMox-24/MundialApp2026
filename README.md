@@ -56,8 +56,8 @@ Aplicación Android nativa desarrollada en **Java** que muestra las **48 selecci
 ```
 MundialApp2026/
 ├── screenshots/
-│   ├── screenshot_lista.png        # Captura de la lista de equipos
-│   └── screenshot_detalle.png      # Captura del detalle de equipo
+│   ├── lista.png        # Captura de la lista de equipos
+│   └── detalle.png      # Captura del detalle de equipo
 ├── app/
 │   ├── src/
 │   │   └── main/
