@@ -1,0 +1,36 @@
+# Archivos generados por Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Archivos de compilación
+app/build/
+build/
+
+# Keystore (nunca subir al repositorio)
+*.jks
+*.keystore
+
+# Logs
+*.log
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
+
+# Archivos de IDE
+*.swp
+*.swo
+*~

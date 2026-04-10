@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mundial 2026</string>
+    <string name="app_title">⚽ FIFA World Cup 2026</string>
+    <string name="search_hint">Buscar equipo o confederación...</string>
+    <string name="team_detail_title">Detalle del Equipo</string>
+    <string name="confederation_label">Confederación: </string>
+    <string name="group_label">Grupo: </string>
+    <string name="coach_label">Entrenador: </string>
+    <string name="capital_label">Capital: </string>
+    <string name="ranking_label">Ranking FIFA: </string>
+    <string name="appearances_label">Mundiales: </string>
+    <string name="best_result_label">Mejor resultado: </string>
+    <string name="stadium_label">Estadio: </string>
+</resources>
